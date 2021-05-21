@@ -1,8 +1,7 @@
 /**
  * <b>Trapezio</b>
  * <u>@author Quintana</u>
- * @version 0
- *
+ * risultato atteso 5, risultato ottenuto 4
  */
 public class Triangolo {
 	/**
